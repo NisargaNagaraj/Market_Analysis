@@ -200,8 +200,8 @@ Market-Analysis/
 │   └── Market_Analysis.pbix
 │
 ├── Dashboard/
-│   └── Customer Purchasing Behaviour.png
-│   └── Market Analysis Executive Dashboard.png
+│   └── Customer Purchasing Behaviour Dashboard.png
+│   └── MARKET ANALYSIS EXECUTIVE DASHBOARD.png
 │   └── Product Performance Dashbaord.png
 │
 ├── Report/
